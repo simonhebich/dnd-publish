@@ -4,11 +4,13 @@ draft: false
 tags: []
 ---
  
-# Willkommen in meiner keinen Fantasy Welt
-Ich freue mich, dass du hierher gefunden hast :)
-Guck dich gerne etwas um :raised_hands:
-## Kampagnen
-- [[Übersicht - Die schwarzen Raben|Die schwarzen Raben]]
+# Kollege, wasn'das?
+joa hier werd ich mir alles Notieren was ich vor, während und nach D&D Sessions brauche!
+bisher sind hier maily placeholder weil ich noch gar keine Ahnung hab was ich hier reinschreiben soll.
+Bald wird aber einiges über meinen Charakter auftauchen.
 
----
-Alles um 3 Uhr nachts entstanden haha
+### ToDos
+- [ ] Charakter erstellen lol
+- [ ] bisschen nochmal in so interaktive Karten reinschauen
+
+zum weiterlesen -> [[Die Welt von Symposia]]
