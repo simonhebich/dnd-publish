@@ -1,9 +1,8 @@
 ---
-title: My little D&D World
+title: Hallöle, hier gibts wat zu lesen!
 draft: false
-tags: []
+tags:
 ---
- 
 # Kollege, wasn'das?
 joa hier werd ich mir alles Notieren was ich vor, während und nach D&D Sessions brauche!
 bisher sind hier maily placeholder weil ich noch gar keine Ahnung hab was ich hier reinschreiben soll.
