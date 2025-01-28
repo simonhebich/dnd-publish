@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    pageTitleSuffix: "",
+    pageTitle: "Die schwarzen Raben 🐦‍⬛",
+    pageTitleSuffix: "meine Notizen zur Kampagne",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "de-DE",
+    baseUrl: "https://simonhebich.github.io/dnd-publish/",
+    ignorePatterns: ["_private", "_templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
