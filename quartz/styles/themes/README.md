@@ -1,19 +1,19 @@
-# Tokyo Night
+# Default
 
-[Tokyo Night](#)
+[Default](https://obsidian.md)
 
 ## Usage
 
 ```bash
-just theme Tokyo Night
+just theme Default
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Tokyo Night Light](preview-light.png)
+![Preview of Default Light](preview-light.png)
 
 ### Dark
 
-![Preview of Tokyo Night Dark](preview-dark.png)
+![Preview of Default Dark](preview-dark.png)
