@@ -1,4 +1,6 @@
 @use "./base.scss";
-@use "./themes";
+@use "themes" as * with (
+  $exists: if(global-variable-exists(themes), true, false)
+);
 
 // put your custom CSS here!
