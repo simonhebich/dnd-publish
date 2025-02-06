@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "https://simonhebich.github.io/dnd-publish/",
+    baseUrl: "https://dnd-publish.pages.dev",
     ignorePatterns: ["_private", "_templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
