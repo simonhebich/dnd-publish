@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "b555542836767a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Blubbs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blubbs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,14 +233,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c20995ebeb61d28",
+  "active": "b555542836767a9f",
   "lastOpenFiles": [
     "Lore/Die schwarzen Raben.md",
+    "Lore/Die Welt von Symposia.md",
+    "Lore/Blubbs.md",
     "index.md",
     "NPCs/Ellen die Allwissende.md",
     "Gegenstände/Eine Potion of anti-procrationation.md",
     "Sessions/16.02.25 Pilot Session.md",
-    "Lore/Die Welt von Symposia.md",
     "Charaktere/Simons Charakter sobald er sich mal dran setzt.md",
     "Übersicht - Die schwarzen Raben.md",
     "map.jpg",
@@ -256,7 +272,6 @@
     "quartz/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
     "quartz/node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
     "quartz/node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
-    "quartz/node_modules/hast-util-raw/node_modules/@types/unist/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
