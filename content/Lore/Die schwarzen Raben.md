@@ -1,2 +1,0 @@
-anscheinend irgendeine Abenteuerguilde 🤷‍♂
-- 
