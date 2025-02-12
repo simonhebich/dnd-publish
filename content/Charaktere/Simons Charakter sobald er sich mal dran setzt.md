@@ -1,6 +1,6 @@
-> [!infobox]+ Collapsible Infobox
+> [!infobox]
 > # Name
-> ![[Pasted image 20250210212505.png|cover hsmall]]
+> ![[Pasted image 20250210212505.png|200]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
