@@ -1,13 +1,12 @@
 > [!infobox]
 > # Name
 > ![[Pasted image 20250210212505.png|200]]
-> ###### Stats
-> | Type | Stat |
+> #### Stats
+> | Typ | Stat |
 > | ---- | ---- |
 > | Level | 1 |
-> |Klasse| |
-> | Rasse | Testing |
-
+> |Klasse| Fighter |
+> | Rasse | ne coole|
 
 ToDo:
 Character mit Backstory
