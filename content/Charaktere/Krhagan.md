@@ -1,5 +1,5 @@
 # Krhagan – Half-Orc Fighter (Level 1)
-![[krahgan.png|300]]
+![[krahgan.png|250]]
 
 ## Allgemeine Infos  
 - **Name:** Krhagan  
