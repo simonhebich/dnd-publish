@@ -1,13 +1,14 @@
-# Krhagan – Half-Orc Fighter (Level 1)
+# Krhagan – Half-Orc Fighter (Level 2)
 ![[krahgan.png|250]]
 
 ## Allgemeine Infos  
 - **Name:** Krhagan  
-- **Alter:** Jung für einen Half-Orc, etwa so reif wie ein 20-jähriger Mensch  
-- **Rasse:** Half-Orc  
-  - **Darkvision:** Funktioniert normal  
-  - **Prey-Tracking:** Funktioniert unzuverlässig – führt ihn oft zu Dingen, die nicht zur Situation passen, aber eine tiefere Bedeutung haben könnten  
-- **Klasse:** Fighter  
+- **Alter:** 17 Jahre
+- **Rasse:** Halb-Ork
+- **Darkvision:** Funktioniert normal  
+- Spells:
+  - **Prey-Tracking:** Funktioniert unzuverlässig – führt ihn oft zu Dingen, die nicht zur Situation passen, aber eine tiefere Bedeutung haben könnten 
+- **Klasse:** Fighter 
   - **Skills:** Acrobatics, Perception  
 - **Ausrüstung:** Standard-Loadout für seinen Stamm (Details noch offen, vermutlich Javelins, Schleuder, Schwert, Grundausrüstung)  
 
@@ -47,6 +48,5 @@
 ---
 
 ## Mögliche Story-Hooks  
-- **Geheimnisse seiner Fähigkeit:** Warum funktioniert sein Prey-Tracking anders?  
 - **Konsequenzen seiner Entscheidung:** Was, wenn sein Stamm irgendwann von ihm erwartet, dass er zurückkommt?  
 - **Moralische Konflikte:** Er wird irgendwann Dinge sehen, die ihn zwingen, seine Haltung zum Krieg zu hinterfragen  
