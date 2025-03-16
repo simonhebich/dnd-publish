@@ -6,3 +6,4 @@ Unsere Geschichte beginnt, wie jedes gute Abenteuer, in einer nur leicht ranzige
 - [[Kael Wandrin (Level 1)|Kael Wandrin]]
 - [[Mochidil (Level 1)|Mochidil]]
 
+![[brew_map.png|400]]
