@@ -50,3 +50,5 @@
 ## Mögliche Story-Hooks  
 - **Konsequenzen seiner Entscheidung:** Was, wenn sein Stamm irgendwann von ihm erwartet, dass er zurückkommt?  
 - **Moralische Konflikte:** Er wird irgendwann Dinge sehen, die ihn zwingen, seine Haltung zum Krieg zu hinterfragen  
+
+

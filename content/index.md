@@ -1,16 +1,10 @@
 ---
-title: Hallöle, hier gibts wat zu lesen!
+title: Tagebuch
 draft: false
 tags:
 ---
-# Kollege, wasn'das?
-joa hier werd ich mir alles Notieren was ich vor, während und nach D&D Sessions brauche!
-bisher sind hier maily placeholder weil ich noch gar keine Ahnung hab was ich hier reinschreiben soll.  
-Bald wird aber einiges über meinen Charakter auftauchen.  
-Ich bin bloß noch nicht ganz ready, aber fast :)
+Hier niedergeschrieben sind die Erlebnisse und Gedanken eines des Heldens Xanhteriel.
 
-### ToDos
-- [ ] Charakter erstellen lol
-- [ ] bisschen nochmal in so interaktive Karten reinschauen
+**Lesezeichen**: [[Session am 26-01-28]]
 
-zum weiterlesen -> [[Die Welt von Symposia]]
+Durch viele Kopfverletzungen sind die Erinnerungen nur lückenhaft verhanden und ggf. falsch an manchen Stellen. upsi

@@ -1,2 +1,0 @@
-- Alle gehören der Abenteuergilde "Die schwarzen Raben" an
-	- werden für verschiedene Aufrage an

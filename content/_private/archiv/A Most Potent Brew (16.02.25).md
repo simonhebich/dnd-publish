@@ -4,4 +4,4 @@ Unsere Geschichte beginnt, wie jedes gute Abenteuer, in einer nur leicht ranzige
 - [[Vexa Naerix|Vexa Naerix]]
 - [[Renshu|Renshu]]
 - [[Kael Wandrin|Kael Wandrin]]
-- [[Mochidil|Mochidil]]
+- [[Mochid|Mochidil]]
