@@ -1,5 +1,5 @@
 ---
-title: Tagebuch
+title: Seid gegrüßt ihr neugierigen lesenden
 draft: false
 tags:
 ---
