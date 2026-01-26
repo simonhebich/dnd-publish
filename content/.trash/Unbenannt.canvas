@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8b502c212190d8d9","x":-253,"y":-95,"width":133,"height":76,"type":"text","text":"Hallo "},
+		{"id":"c1273b58b3cc9612","type":"text","text":"Hallo ","x":24,"y":55,"width":133,"height":76},
+		{"id":"0ae5e7f5a99df697","type":"text","text":"Hallo ","x":251,"y":53,"width":133,"height":76},
+		{"id":"35fcdad680957b5f","x":-518,"y":204,"width":250,"height":60,"type":"text","text":"[[good questions]]"},
+		{"id":"4e48edfc46da2775","x":-50,"y":163,"width":240,"height":240,"type":"file","file":"_attachments/krahgan.png"}
+	],
+	"edges":[
+		{"id":"41d58e4be3641678","fromNode":"8b502c212190d8d9","fromSide":"right","toNode":"c1273b58b3cc9612","toSide":"top"},
+		{"id":"93a697f9f24a9f05","fromNode":"c1273b58b3cc9612","fromSide":"right","toNode":"0ae5e7f5a99df697","toSide":"left"}
+	]
+}
