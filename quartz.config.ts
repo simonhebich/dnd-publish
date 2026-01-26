@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Die schwarzen Raben 🐦‍⬛",
-    pageTitleSuffix: "",
+    pageTitle: "Der Fluch des Strahd 🧛🏻",
+    pageTitleSuffix: "aka 4 1/2 doofhupen mischen ein ganzes Land auf",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "https://dnd-publish.pages.dev",
+    baseUrl: "https://dnd.smoms.me/",
     ignorePatterns: ["_private", "_templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
