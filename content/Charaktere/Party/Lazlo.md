@@ -1,9 +1,6 @@
 ![[lazlo.png|300]]  
 der Boyyyy
-
-![Jannis am schiessen](warlock_eldritch_blast.gif)  
-_Eldritch Blast Counter⚡️: min. 20_
-
+  
 ## Basics
 | HP  | AC  | Initiative |
 | :-: | :-: | :--------: |
@@ -23,3 +20,5 @@ _Eldritch Blast Counter⚡️: min. 20_
 |               **Darkvision** | JAWOLL  |
  
 
+_Eldritch Blast Counter⚡️: min. 20_
+![[eldritch_blast.gif|230]]
