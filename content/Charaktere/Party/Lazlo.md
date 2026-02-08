@@ -21,5 +21,5 @@ der Boyyyy
 |               **Darkvision** | JAWOLL  |
 |                              |         |
 
-_Eldritch Blast Counter⚡️: min. 23
+_Eldritch Blast Counter⚡️: min. 23  
 ![[warlock_eldritch.gif|230]]
