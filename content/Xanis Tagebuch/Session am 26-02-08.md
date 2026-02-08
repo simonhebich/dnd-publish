@@ -79,4 +79,16 @@ hinteren rechten Fuß drücken
 - [[Renshu]] sagt, H sagt die Wahrheit
 - vor zwei Wochen seien die Vampire gekommen zu sein 
 	- hat gedroht den Laden niederzubrennen 
-- 
+
+
+- [[Lazlo]] findet eine eingebranntes, grün schimmerndes Pentagramm
+
+=> Wir nehmen alles und sind zur Kirche!! 
+yayy +1250xp
+
+beim nächsten Mal:
+- [ ]  Xanni wird sich verwandeln in der Nacht
+- [ ]  versuchen mit Viktor zu sprechen
+	- [ ] Katze und Stella
+	- [ ] [[Sonnenschwert]]
+	- [ ] Grimuar der 4 viertel - Buch das Fiona gerade ließt (von einem Magier)
