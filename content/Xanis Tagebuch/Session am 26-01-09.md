@@ -5,21 +5,21 @@ Auf dem Weg zum Gasthaus:
 -> vorübergehend für nicht-Gäste geschlossen
 alles barrikadiert
 
-Mochid: (klopft)
+[[Mochid]]: (klopft)
 
 Wirt: (öffnet die Tür)
 - mit Besen und Kerschaufel in der Hand
 
 Mochid: Wieso geschlossen?
-Wirt: 
+[[Urwin]]: 
 "jemand meinte Irena ist hier"
-"Izek, ist hier aufgetaucht und hat jedes Zimmer durchsucht"
+"[[Izek]], ist hier aufgetaucht und hat jedes Zimmer durchsucht"
 "Konnte versteckt werden also ist alive und in der Küche"
 "viel Schaden hinterlassen"
-"keine Ahnung wieso Irena gesucht wird"
+"keine Ahnung wieso [[Ireena]] gesucht wird"
 
 M: wird öfter nach Personen gesucht?
-W (Urwin): Baron und Izek keine sehr einfühlsamen Machthaber!
+W (Urwin): [[Baron]] und Izek keine sehr einfühlsamen Machthaber!
 M: noch helfen?
 W: sind ja nur Stühle und Tische
 L: also nicht? lol
@@ -27,12 +27,12 @@ L: also nicht? lol
 M geht in die Küche
 alle folgen
 
-Urwin ruft: hier ein Brief für dich Mochid
+Urwin ruft: hier ein Brief für dich [[Mochid]]
 M: reißt den Brief **direkt** auf.
 M: *wtf*?
 
 *in der Küche*
-M verschreckt Irena und die Wirtsfrau
+M verschreckt Irena und die [[Dannika|Wirtsfrau]]
 M umarmt Irene
 Irene ist bisschen verwirrt wieso M auf einmal so affectionate ist.
 M bekommt sich wieder ein
@@ -64,7 +64,7 @@ In die Kirche wurde eingebrochen und aus der Krypta/Keller wurden die Gebeine ge
 Bärlauch wurde gefunden
 Das Fenster wurde von aussen eingeschlagen
 
-Wirtin: Was macht denn jetzt Vater Lucian?
+Wirtin: Was macht denn jetzt [[Vater Lucian]]?
 ...
 
 Wirtin: Ja dann fehlt jetzt der Schutzzauber
@@ -112,7 +112,7 @@ U: R Wagen ist auf Arazek Güterhof im Osten der Stadt (eigenzeichnet auf Karte)
 
 	Bente kann nicht lesen
 
-M zu den anderen: wollt ihr jetzt noch was über Milliwoi wissen
+M zu den anderen: wollt ihr jetzt noch was über [[Milivoi]]] wissen
 L: U kennst du Millivoi
 
 U: Millivoi der Freidhofsgräber, hat viele Geschwister
@@ -133,7 +133,7 @@ M erklärt I die was wir erlebt haben:
 - coolen Wagn von Esmeralda mit Huhn Eggsmeralder gefunden.
 - im Turm
 	- Tagebucheinträge 
-	- Karten zu Ricktavios Show
+	- Karten zu [[Rudolf von Richten|Ricktavios]] Show
 
 Working Theorie
 - Arabell wurde vom Zauberer gerettet 
@@ -146,8 +146,8 @@ Z history check -> 9
 Z erinnert sich dass Kazahn (der Zauberer) der Architekt von von Ravenloft war
 
 
-Jan wurde Ermodet 
-Alexi sollte auf Arabel aufpasen
+[[Jan]] wurde Ermodet 
+[[Alexi]] sollte auf [[Arabel]] aufpasen
 
 Jan hat alexi abgefpllt und vielleicht arabel geklaut 
 
@@ -167,7 +167,7 @@ x ist in wasser gesprungen -> ergo wusste vielleicht dass y nicht in wasser kann
 
 
 
-Brief direkt an Mochid von laidy Fiona:
+Brief direkt an Mochid von [[Fiona Wachter|Lady Fiona]]:
 - morgen bei sonnenuntergang bei ihr speisen
 
 
@@ -274,7 +274,7 @@ Milivoi
 
 
 
-Who TF ist Henrick
+Who TF ist [[Henrick]]
 
 Henrick - zu dem gehen?
 sind da die Beine?

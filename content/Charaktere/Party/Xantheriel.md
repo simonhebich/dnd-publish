@@ -2,7 +2,8 @@
  ![[xantheriel_icon.png|300]]  
 ein durchaus hochmütiger dennoch launischer Dämmerungself
 
-## Basics
+## Stats
+
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
 | 28/43 | 14 | +2 |

@@ -1,4 +1,4 @@
-bei kasimir :
+bei [[Kasimir]] :
 - 3 Dämmerungselven stehen vor der Hütte 
 
 bei Kasimir in der Hütte
@@ -25,15 +25,15 @@ bei Kasimir in der Hütte
 
 - geh zu den Fundort zurück 
 
-- Alexi der säufer
+- [[Alexi]] der säufer
 	- der hat Wein von Jan bekommen 
 	- sollte auf Annabel aufpassen
-- Jan wurde am Fluss geköpt geunfen
+- [[Jan]] wurde am Fluss geköpt geunfen
 - es gab kampfspuren
 - es wurde ien siegelring gefunden
-- Luvash, Anfüher der Vistani 
+- [[Louvash|Luvash]], Anfüher der Vistani 
 	- stark verletzt und blutet 
-	- Vater von Arrabel
+	- Vater von [[Arabel]]
 - große Belhonung versprochen zum finden der Tochter
 
 ### Spuren 

@@ -43,7 +43,7 @@ Nachdem das Jespenzt gesehen
 
 Bücher
 - über runern
-- Baron
+- [[Baron]]
 - Stahd
 - Werwölfe
 - Vmpire 

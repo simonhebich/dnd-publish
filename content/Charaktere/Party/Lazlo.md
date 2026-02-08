@@ -1,7 +1,8 @@
 ![[lazlo.png|300]]  
 der Boyyyy
   
-## Basics
+## Stats
+
 | HP  | AC  | Initiative |
 | :-: | :-: | :--------: |
 | 27  | 14  |     +1     |
@@ -18,8 +19,7 @@ der Boyyyy
 | **Passive Perception (WIS)** | 10      |
 |        **Proficiency Bonus** | +2      |
 |               **Darkvision** | JAWOLL  |
- 
+|                              |         |
 
-_Eldritch Blast Counter⚡️: min. 20_
-
+_Eldritch Blast Counter⚡️: min. 23
 ![[warlock_eldritch.gif|230]]

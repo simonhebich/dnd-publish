@@ -3,15 +3,15 @@ draft: false
 ---
 
 ## ToDo
-- [ ] Abendessen mit Miss Wachter (Mochid, Xantheriel, Ireeena)
-- [ ] Hendrick zur rede stellen (RenShu, Lazlo)
+- [ ] Abendessen mit [[Fiona Wachter|Miss Wachter]] (Mochid, Xantheriel, Ireeena)
+- [ ] [[Henrick]] zur rede stellen (RenShu, Lazlo)
 
 ? Tage bis Vollmond -> Wer hat den Trank? -> prob. Mochid
 
 
 ---
 # beim Sragmacher
-> mit Vater Lucian, Lazlo, RenShu
+> mit [[Vater Lucian]], Lazlo, RenShu
 
 - lazlo hat ein mulmiges gefühl zum haus.. kann aber nicht sagen wieso 
 	- und sagt das RenShu
@@ -24,17 +24,17 @@ draft: false
 
 - Jan ist befragbar gemacht worden von rvr
 	- beauftragt von Escher
-- Warum ist Arabell 
+- Warum ist [[Arabel]] 
 
 
 
 Fagkten 
-Arigal will im dorf haben und bei vater haben 
+[[Arigal]] will im dorf haben und bei vater haben 
 rudolf will soll nicht 
 
 
 
-bei Fiona Wachter 
+bei [[Fiona Wachter]] 
 unsere sachen sind in einem Schrabkj rechts vom empfang
 
 rechts: gruch von essen, xanny bekommt sabber sabber
@@ -47,7 +47,7 @@ gehen in den Salon
 - portrait von alter dude mit gebriochener nase
 
 - girl in der Ecke - 16, weißes nachthemd
-	- schwester = Stella
+	- schwester = [[Stella]]
 
 Frau wachter:
 Wer seid ihr?
@@ -89,14 +89,14 @@ wieder stahdnd fürht zu nichts als zerstörung
 
 Schwerd: sicher nnur ein kindermäörchen 
 
-Rebellion von Doro
+Rebellion von [[Doro]]
 
 Zugeständenisse - waffen aus silber ,
 
 Hallik 
 
-Stella: 
-Bit dem Sohn des Baron Viktor zu treffen 
+[[Stella]]: 
+Bit dem Sohn des Baron [[Viktor]] zu treffen 
 -> Fiona hat sie ge
 
 vor 2 Monaten in ihrem Zustand vonIzek zurpckgebracht 
@@ -104,7 +104,7 @@ vor 2 Monaten in ihrem Zustand vonIzek zurpckgebracht
 
 
 
-Bruder Frederich war angesehen um Titel von MUTTER zu übernehmen.
+Bruder [[Frederich]] war angesehen um Titel von MUTTER zu übernehmen.
 Streit mit Mutter und Bruder - 
 Weggerannt - gefunden von alter Frau [[Lisa]]
 - erfuhr dass Bruder und Eltern gestorben

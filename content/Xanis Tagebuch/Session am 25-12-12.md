@@ -33,7 +33,7 @@ Tür auf mit *kwietsch*
 
 - Pergamente 
 	- Tagebucheintrag
-	- Riktavius Werbung
+	- [[Rudolf von Richten|Riktavio]]s Werbung
 
 - Schreibtisch mit
 	- Poison Kit

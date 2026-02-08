@@ -1,5 +1,5 @@
-- sollen [[Victor]] Artefakte mitbringen 
-- [[Victor]] weiß NICHTS
+- sollen [[Viktor|Victor]] Artefakte mitbringen 
+- [[Viktor|Victor]] weiß NICHTS
 - Katze
 	- Raben im Gasthaus
 	- Ratten und Fledermäuse 

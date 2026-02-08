@@ -16,7 +16,7 @@ nachdem wir aufgebrochen sind zum Baratocksee
 	- Bart unrasitert ungepflegt
 		- Seite wollfick ausseheneder hund - Wulfrik
 
-- Büder Louvash und Arigal
+- Büder [[Louvash]] und [[Arigal]]
 
 
 Fluss - na

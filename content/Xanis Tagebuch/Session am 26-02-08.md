@@ -71,3 +71,12 @@ hinteren rechten Fuß drücken
 
 - anasthasia, und neues spielzeug 
 - kirchenbänke blutrot getränkt dann wird der Lord erkennen was für  ein Wert 
+
+==KAPMF==
+
+- Lazlo würgt [[Henrick]] und Fragt was da los
+- Henrick meint er kann nichts für die Situation 
+- [[Renshu]] sagt, H sagt die Wahrheit
+- vor zwei Wochen seien die Vampire gekommen zu sein 
+	- hat gedroht den Laden niederzubrennen 
+- 
