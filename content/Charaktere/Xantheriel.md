@@ -1,5 +1,4 @@
 
-# Xantheriel
  ![[xantheriel_icon.png|300]]  
 ein durchaus hochmütiger dennoch launischer Dämmerungself
 

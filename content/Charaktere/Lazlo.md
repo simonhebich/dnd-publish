@@ -1,6 +1,5 @@
-# Lazlo
 ![[lazlo.png|300]]  
-feiger Boyyyy
+feiger Boyyyy, inside the Mother Vampire
 
 ## Basics
 | HP  | AC  | Initiative |
