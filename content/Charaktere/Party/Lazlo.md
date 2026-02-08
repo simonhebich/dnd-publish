@@ -21,4 +21,5 @@ der Boyyyy
  
 
 _Eldritch Blast Counter⚡️: min. 20_
-![[eldritch_blast.gif|230]]
+
+![[warlock_eldritch.gif|230]]
