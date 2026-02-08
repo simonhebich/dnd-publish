@@ -1,5 +1,5 @@
 # Lazlo
-![[lazlo.png|300]]
+![[lazlo.png|300]]  
 feiger Boyyyy
 
 ## Basics
