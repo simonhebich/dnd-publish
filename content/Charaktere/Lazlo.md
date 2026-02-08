@@ -1,5 +1,8 @@
 ![[lazlo.png|300]]  
-feiger Boyyyy, inside the Mother Vampire
+der Boyyyy
+
+![Jannis am schiessen](warlock_eldritch_blast.gif)  
+_Eldritch Blast Counter⚡️: min. 20_
 
 ## Basics
 | HP  | AC  | Initiative |
