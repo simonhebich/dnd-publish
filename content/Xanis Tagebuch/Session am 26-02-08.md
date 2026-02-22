@@ -87,6 +87,7 @@ hinteren rechten Fuß drücken
 yayy +1250xp
 
 beim nächsten Mal:
+- [x]  Beine zurück
 - [ ]  Xanni wird sich verwandeln in der Nacht
 - [ ]  versuchen mit Viktor zu sprechen
 	- [ ] Katze und Stella
