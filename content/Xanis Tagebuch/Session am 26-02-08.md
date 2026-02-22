@@ -89,7 +89,7 @@ yayy +1250xp
 beim nächsten Mal:
 - [x]  Beine zurück
 - [ ]  Xanni wird sich verwandeln in der Nacht
-- [ ]  versuchen mit Viktor zu sprechen
-	- [ ] Katze und Stella
-	- [ ] [[Sonnenschwert]]
-	- [ ] Grimuar der 4 viertel - Buch das Fiona gerade ließt (von einem Magier)
+- [x]  versuchen mit Viktor zu sprechen
+	- [x] Katze und Stella
+	- [x] [[Sonnenschwert]]
+	- [x] Grimuar der 4 viertel - Buch das Fiona gerade ließt (von einem Magier)

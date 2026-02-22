@@ -1,6 +1,6 @@
 Beine in Kirche an Vater geben
 
-Wieviel Uhr: rellativ morgens aber > 8
+Wieviel Uhr: relativ morgens aber > 8
 
 Xan bringt Mochid zu Anwesen vom Baron
 
@@ -56,4 +56,38 @@ Gespräch mit [[Viktor|Paul]]:
 - Mochid: "Yoo ich hab juce der EtarBlume" -> ...
 - Hast du ideen was die Hexe will? ...
 - Vitor weißt du was Herzstein ist
-- ""
+- [[Ätherische Entitäten#Nachthexen Matronen der Bosheit]]
+
+- Paul weiß nix zum Grimuar
+	- aber Ren und Laz
+	- gotteslästerung von verwirrtem Magier
+		- wenn man das Buch ließt wird man verwirrt
+		- diabolische gedanken wenn man das ließt
+	- Bücherladen Dude kann man so nicht kaufen - scheint unikat zu sein
+- Yo kennst du [[Sonnenschwert]]?
+	- = nciht direkt, aber in [[Kazahns]] Buch steht was:
+		- **Lichtklinge**: 
+		  13 Juli 351 BC
+			Strahd hat [[Kazahn]] beauftragt die Lichtklinge zu zerstören 
+			Lichtklinge gehört Sergey
+			17 Juli
+			Kazahn hat Klinge und Griff getrennt
+			3 August 
+			Lehrling hat Griff geklaut -> Laiche von Lehrling gefunden
+			... Wilde erste Menschen sind in unruhe weil ihre Stätten entweiht wurden (in der nähe der Weihland Hügel)
+			10 August 
+			Kazahn hat Klinge von Lichtklinge zerstört und Strahd informiert
+		- wie accurate ist dieser Tagebucheintrag?
+		- [[Viktor|Paul]]: ja is halt lang her, ... <infos der anderen hier einfügen>
+		- ...
+- [[Kazahn]]s Buch sehr Tagebuch mäßig
+- [[Viktor|Paul]]s Meinung zu [[Fiona Wachter]] 
+	- stella ihr sehr zugewannt
+	- aber Pual keine richtige Verbingung 
+	- und Familys sind halt nicht so auf einer Wellenlänge
+
+
+Was wir tun sollen:
+Fest Auskundschaften und Hexe finden
+
+Plan: -> Izek vergiften -> Hexe finden -> Hexe töten -> 
